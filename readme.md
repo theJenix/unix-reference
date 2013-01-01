@@ -15,8 +15,8 @@ If there's something awesome you have to share then open a pull request! Someone
 
 ## Collaborators
 
-Tomer Elmalem (@tomelm)
+Tomer Elmalem ([tomelm](http://github.com/tomelm))
 
-Reid Baker (@readbaker)
+Reid Baker ([reidbaker](http://github.com/reidbaker))
 
-Jesse Rosalia (@thejenix)
+Jesse Rosalia ([thejenix](http://github.com/thejenix))
