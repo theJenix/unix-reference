@@ -1,5 +1,19 @@
 # Basic commands
 
+## Table of contents
+
+1. [Where am I?](https://github.com/tomelm/unix-reference/blob/master/basics.md#pwd)
+2. [What's in this directory?](https://github.com/tomelm/unix-reference/blob/master/basics.md#ls)
+3. [How do I change directories?](https://github.com/tomelm/unix-reference/blob/master/basics.md#cd)
+4. [How do I remove files and directories?](https://github.com/tomelm/unix-reference/blob/master/basics.md#rm)
+5. [How do I create empty files?](https://github.com/tomelm/unix-reference/blob/master/basics.md#touch)
+6. [How do I create directories?](https://github.com/tomelm/unix-reference/blob/master/basics.md#mkdir)
+7. [How do I copy files?](https://github.com/tomelm/unix-reference/blob/master/basics.md#cp)
+8. [How do I move files?](https://github.com/tomelm/unix-reference/blob/master/basics.md#mv)
+9. [Relative directories](https://github.com/tomelm/unix-reference/blob/master/basics.md#-and-)
+
+## Basics!
+
 You've just opened up a new terminal and something like this pops up
 
 ```
